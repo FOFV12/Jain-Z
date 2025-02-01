@@ -7,7 +7,7 @@ module.exports = {
    
    */
 
-  TOKEN: process.env.TOKEN || "MTMzNDg4NDMzMzE5MzkyNDYzOQ.G7dZxR.WojT0pfN0OrG1eYLqoz9d7UDe2BpIGfcB-1iCM",  // your bot token
+  TOKEN: process.env.TOKEN || ",  // your bot token
   PREFIX: process.env.PREFIX || ".", //<= default is #  // bot prefix
   OWNER_ID: process.env.OWNER_ID || "1057588613463953498", //your client id
 
